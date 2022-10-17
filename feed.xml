@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>laurenandlarry</title>
+    <link href="https://laurenandlarry.com/feed.xml" rel="self" />
+    <link href="https://laurenandlarry.com" />
+    <updated>2022-10-17T13:17:40-04:00</updated>
+    <author>
+        <name>larry</name>
+    </author>
+    <id>https://laurenandlarry.com</id>
+
+    <entry>
+        <title>Home Info</title>
+        <author>
+            <name>larry</name>
+        </author>
+        <link href="https://laurenandlarry.com/home-info.html"/>
+        <id>https://laurenandlarry.com/home-info.html</id>
+
+        <updated>2022-10-17T13:17:40-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Test
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Test</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

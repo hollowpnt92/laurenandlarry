@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "laurenandlarry",
+    "description": "",
+    "home_page_url": "https://laurenandlarry.com",
+    "feed_url": "https://laurenandlarry.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "larry"
+    },
+    "items": [
+        {
+            "id": "https://laurenandlarry.com/home-info.html",
+            "url": "https://laurenandlarry.com/home-info.html",
+            "title": "Home Info",
+            "summary": "Test",
+            "content_html": "<p>Test</p>",
+            "author": {
+                "name": "larry"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-17T13:17:40-04:00",
+            "date_modified": "2022-10-17T13:17:40-04:00"
+        }
+    ]
+}
